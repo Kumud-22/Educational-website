@@ -1,0 +1,19 @@
+insane-knowledge/
+├── backend/
+│   ├── controllers/
+│   │   ├── authController.js
+│   │   ├── courseController.js
+│   ├── models/
+│   │   ├── User.js
+│   │   ├── Course.js
+│   ├── routes/
+│   │   ├── authRoutes.js
+│   │   ├── courseRoutes.js
+│   ├── middlewares/
+│   │   ├── authMiddleware.js
+│   ├── config/
+│   │   ├── db.js
+│   ├── app.js
+│   ├── server.js
+│   ├── package.json
+│   ├── .env

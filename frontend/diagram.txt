@@ -1,0 +1,27 @@
+insane-knowledge/
+├── frontend/
+│   ├── public/
+│   ├── src/
+│   │   ├── app/
+│   │   │   ├── store.js
+│   │   ├── components/
+│   │   │   ├── Header.js
+│   │   │   ├── Footer.js
+│   │   ├── features/
+│   │   │   ├── auth/
+│   │   │   │   ├── authSlice.js
+│   │   ├── pages/
+│   │   │   ├── HomePage.js
+│   │   │   ├── CourseOverviewPage.js
+│   │   │   ├── CourseDetailPage.js
+│   │   │   ├── LoginPage.js
+│   │   │   ├── SignupPage.js
+│   │   │   ├── DashboardPage.js
+│   │   ├── App.js
+│   │   ├── index.js
+│   │   ├── index.css
+│   ├── tailwind.config.js
+│   ├── postcss.config.js
+│   ├── package.json
+│   ├── .babelrc
+│   ├── .eslintrc.json
